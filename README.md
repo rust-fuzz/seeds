@@ -1,6 +1,6 @@
-# fuzz-artifacts
+# seeds
 
-Artifcats gathered from fuzzing projects. Artifacts are intended to be reused for further fuzzing attempts.
+Seeds gathered from fuzzing projects. Seeds are intended to be reused for further fuzzing attempts.
 
 ## License
 
