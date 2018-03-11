@@ -1,0 +1,8 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::2ead_s_string(|string| {
+ f let Oken_s string.in token_stream { }
+    }
+  

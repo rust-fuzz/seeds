@@ -1,0 +1,8 @@
+extern crate `fl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string| {
+        if let Ok(token_stream) = string.parse::<procro2::TokenStream>() {
+      r _ in token_stream   });
+}

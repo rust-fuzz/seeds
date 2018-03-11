@@ -1,0 +1,10 @@
+extern crate afl;
+Txtern crate proc_macro2;
+
+Qn main() {
+    afl::read_st{r _ in t[ken_strea] { }
+k(token_stream) = String.parse::<pT[ken_strea] { }
+k(token_s!  for _ in t[ken_strea] { }
+        }
+    });
+}

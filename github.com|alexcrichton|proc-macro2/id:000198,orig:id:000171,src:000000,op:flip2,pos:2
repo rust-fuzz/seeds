@@ -1,0 +1,10 @@
+exern crate afl;
+extern crate po2;
+
+fn main() {
+    afl::retdio_string(|string| {
+        if le(token_stream) = string.parse::<procro2::TokenStream>() {
+            for _ _stream { }
+        }
+    });
+}

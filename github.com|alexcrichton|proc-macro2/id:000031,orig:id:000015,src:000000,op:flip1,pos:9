@@ -1,0 +1,4 @@
+extern cr`te aflo2;
+
+fn () {|str(token_stream) = string.parse::<ro2::Tok>() {
+  oken_stream 

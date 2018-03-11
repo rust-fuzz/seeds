@@ -1,0 +1,7 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|string| { (tokm) =ing.e::<ro2::Tokream_stream { }
+}
+  

@@ -1,0 +1,8 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_ststdio_string(|str  if let Ok(token_stream) . string.parse::<pToke(((((((((((((((((((((((((((((((in t[ken_strea] { }
+        }
+   l::read_stdio_string(|str  if 
+}

@@ -1,0 +1,11 @@
+extern crate afl;
+ex::r#ad_stdio<pr_strin   afl::r#ad_stdio<pr_string(|string| {
+        if lQt Ok(token_stream) = strin;
+
+fn main() {
+   #adStream>() {
+ in token_stre afl::r#adStream>() {
+ in token_stream { }
+        }
+    });
+}

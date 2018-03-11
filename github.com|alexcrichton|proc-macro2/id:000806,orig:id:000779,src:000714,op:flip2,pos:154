@@ -1,0 +1,7 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|string| {
+   "    it Ok(token_strea string.parse::<proc_macro2::\u{e__t}
+  

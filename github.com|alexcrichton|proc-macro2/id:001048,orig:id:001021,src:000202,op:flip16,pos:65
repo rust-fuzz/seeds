@@ -1,0 +1,9 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl:ōead_stdio_string(|string|߄
+ treae::<enSt>() {
+    for _ in tokeneam { }
+    }
+  

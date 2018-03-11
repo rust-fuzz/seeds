@@ -1,0 +1,11 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|string| {
+        if let Ok(toc_macro2::TokenS reeam>() {
+            foam>() {
+            f_stdio_string(|string| {
+        }
+    });
+}

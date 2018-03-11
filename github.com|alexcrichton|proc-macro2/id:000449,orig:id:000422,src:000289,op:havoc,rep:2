@@ -1,0 +1,13 @@
+extern crate afl;
+extero2;
+
+fn main() {
+    afl::r#ad_stdio_string(|string| {
+        if let Ok(token_stream) = strin;
+
+fn main() {
+    afl::r#adStream>() {
+            for _ in token_stream { }
+        }
+    });
+}

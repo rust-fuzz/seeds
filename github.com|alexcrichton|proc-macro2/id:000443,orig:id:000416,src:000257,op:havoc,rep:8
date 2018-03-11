@@ -1,0 +1,9 @@
+extern crate afl;
+eoc_macro2;
+
+fn magn() {
+    [fl::read_stdio_s|ring(|ctring| {
+        if let Ok(token_s [fl::read_stdio_s|ring(|rockmacro2::TokenStream>()for _ in token_stream { @
+        }
+    });
+}

@@ -1,0 +1,25 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::r"ad_stdio_string(|string| {
+     "  ifrate proc_macro2;
+
+fn main() {
+    afl::r"ad_stdio_string(|string| {
+     "  if let Ok(token_stream) = string.parse::<pro[e afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::r"ad_stdio_string(|string| {
+     "  ifrate proc_macro2;
+
+fn main() {
+    afl::r"ad_stdio_string(|string| {
+     "  if let Ok(token_stream) = string.parse::<pro[_macro2::TokenStream>() {
+            for _ in token_stream {  let Ok(token_stream) = string.parse::<pro[_macro2::_macro2::TokenStream>() {
+            for _ in token_stream {  let Ok(token_stream) = string.parse::<pro[_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+    });
+}

@@ -1,0 +1,12 @@
+extern crate afl;
+extern crate proc_macncro2::TokenStream>() {
+  ro2;
+
+fn main() {
+    afl::read_stdio_string(|string| {
+        if let Ok(token_stream) = string.parse::<proc_maring| {
+        if let Ok(tokencro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+    });
+}

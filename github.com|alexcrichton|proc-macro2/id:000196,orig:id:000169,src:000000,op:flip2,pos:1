@@ -1,0 +1,7 @@
+etern crate afl;
+extern crate pmain() {
+    afling( {
+    if let Ok(token_stream) = strparse::<proc_macro2::TokenStream>() {
+  r _ in token_stream         }
+    });
+}

@@ -1,0 +1,15 @@
+e|tern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|s-ring| {
+        }) let Ok(token_stream) = string.parse::<proc_macro2::TokenStream>() {
+            fomain() {
+    afl::read_stdio_string(|s-ring| {
+        }) let Ok(token_stream) = string.parse::<proc_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+   });r _ in token_stream { }
+        }
+   });
+}

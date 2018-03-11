@@ -1,0 +1,11 @@
+exter let Okb crafl;
+ate proc_mac[o2kenStream>() {
+    ;
+
+fn |a       (        in() {
+    afl::read_stdio_string(|string    tri         in() {| {
+        if let Ok(tokeO_slream) = string.parse:  f:<proc_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+ < });
+}'

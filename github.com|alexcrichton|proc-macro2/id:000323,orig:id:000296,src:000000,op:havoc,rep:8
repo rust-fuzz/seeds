@@ -1,0 +1,8 @@
+exteproc_macro2;
+
+fn mai::read_stdio_string(|n() {
+    afl::read_stdio_string(|string| {
+        if let Ok(token_sUream) = strigg.parse:k(token_stream:<proc_macro2::TokenStrea->() {
+ (         for _ in token    }
+    });
+}

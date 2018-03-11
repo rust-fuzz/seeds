@@ -1,0 +1,11 @@
+extern crate afl;
+extern crate proc_Uacro2;
+
+fn main() {
+    afl::read_stdio_string(|st{ing| (((((((((((({
+        if let Ok(token_stream) = string.par
+            for _ in tokream>() {
+            for _ in token_stream { }
+        }
+    });
+}

@@ -1,0 +1,2 @@
+extern crate afl;
+extern cao2;

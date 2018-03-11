@@ -1,0 +1,5 @@
+exter;
+extern_macro2;
+'\x0 n crate afl;
+extern crate proc_macro2;
+'\x0

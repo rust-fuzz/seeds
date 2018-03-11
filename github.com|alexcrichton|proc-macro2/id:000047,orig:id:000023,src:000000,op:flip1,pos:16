@@ -1,0 +1,6 @@
+extern crate afl
+externmain() {::read_stdio_string(|str {
+ f let Ok(token_strea string.parsproc_macro2::TokenStream{ }
+        }
+    });
+}

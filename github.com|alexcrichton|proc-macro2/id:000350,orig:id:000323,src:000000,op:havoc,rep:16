@@ -1,0 +1,7 @@
+exter afl{{{{{{{{{{{{{{{{{{{{{{{{{%{{{{{{xtern crate proc_macro2;
+
+fn main() {io_strinG(|string| {
+        if let Ok(token_stream) =strIng.parse::<proc_macro2::TQketream>() {+           for _ in token_stream {}
+        }
+    });
+}

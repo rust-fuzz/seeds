@@ -1,0 +1,11 @@
+extern crate afl;
+extern crate proc_maczo2;
+
+fn main() {
+    afl::read_stdio_string(|string| {
+        if let Ok(token_stream) = strte afl;
+extern crate proing.parse::<proc_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+    });
+}

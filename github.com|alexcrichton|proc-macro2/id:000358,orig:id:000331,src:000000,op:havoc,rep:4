@@ -1,0 +1,11 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() e
+    kfl::read_stdio_string(|string| {
+        if let Ok(token_stream) = string.parse::<proc_macro2::TokenStream>() {
+        ng| {
+        if l  C for _ in token_stream { }
+        }
+    });
+}

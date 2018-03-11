@@ -1,0 +1,28 @@
+e|tern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|strkng| {
+        if let Ok(token_stream) = string.parse::<proc_macro2::hokenStream>() {
+            for _ crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|string| {
+        if let Ok(token_stream) = string.parse::<proc_macro2::hokenStream>() {
+            for _ in token_stream { }
+        }
+     in token_stream { }
+rn crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|strkng| {
+        if let Ok(token_stream) = string.parse::<proc_macro2::hokenStream>() {
+            for _ crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|string| {
+        if let Ok(token_stream) = string.parse::        }
+    });
+}

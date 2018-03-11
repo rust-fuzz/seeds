@@ -1,0 +1,10 @@
+extern crate afl;
+exQern crate pwoc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|string| {
+        if let Ok(token_stream) = string.parse::<proc_macro2::TokenStream>() {
+        [ern crate pwoc_m    for _ in token_stream { }
+        }
+    });
+}

@@ -1,0 +1,35 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() tern crate proc_macro2;
+
+fn main() {
+    afl::r"ad_stdio_string(|string| {
+     "  ifring| {
+     "  if let Ok(token_streamcro2:tring.parse::<2;
+
+fn main() tern crate proc_macro2;
+
+fn main() {
+    afl::r"ad_stdio_string(|string| {
+     "  ifring| {
+     "  if let Ok(token_streamcro2:tring.parse::<pro[_macro2::TokenStream>() {
+            for _ in token_stream { }
+         let Ok(token_streamcro2:tring.parse::<pro[_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+{
+    afl::r"ad_stdio_string(|string| {
+     "  if let Ok(token_streamcro2:tring.parse::<pro[_macro2::TokenStream>() {
+            for _ in token_strpro[_macro2::TokenStream>() {
+            for _ in token_stream { }
+         let Ok(token_streamcro2:tring.parse::<pro[_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+{
+    afl::r"ad_stdio_string(|string| {
+     "  if let Ok(token_streamcro2:tring.parse::<pro[_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+    });
+}

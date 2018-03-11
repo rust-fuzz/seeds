@@ -1,0 +1,7 @@
+e`terate aflte proc_macro2;
+
+fn ::read_s_str(token_stream) = string.e::<proc_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+    });
+}

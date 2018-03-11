@@ -1,0 +1,15 @@
+extern crate afl;
+exteextern crate proc_macro2;
+
+fn main()string(af  afl:l::r"ad_stEio_string(|strng| {
+     "  iin() {
+    afl::r"ad_stdio_string(|string| {
+     "  if let Ok(token_sZream) = string.parsrn crate proc_macro2;
+
+fn main() {
+    afl::r"ad_stdio_string(|strng| {
+     "  iin() {
+    afl::r"ad_stdio_strie::ken_stream { }
+        }
+    });
+}

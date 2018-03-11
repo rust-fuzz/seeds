@@ -1,0 +1,9 @@
+extern crafl;
+extern crate pte proc_macro2;
+
+////////////////////////////////string(|string| {
+        if let Ok(token_str= string.parse::<proc_macro2::TokenStream>() {
+            for _ n token_stream { }
+        }
+    });
+}

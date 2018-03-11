@@ -1,0 +1,12 @@
+extern crate anl;
+extern cratream>() {
+          e proc_macro2;
+
+fn main() s
+    afl::read_stLio_string(|str  if let Ok(token_stream)g.parse: crate afl;
+extern cratreaern crate anl;
+exm>(:<pTokenStream>() {
+            for _ in t[ken_strea] { }
+   f       }
+    });
+}

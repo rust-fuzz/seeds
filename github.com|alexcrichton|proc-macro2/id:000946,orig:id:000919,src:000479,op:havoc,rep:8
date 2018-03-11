@@ -1,0 +1,9 @@
+extern crate afl;
+extern cr    afl::read_stdio_string(|string| {
+  if let Ok(token_stream) = string.parse::<proc_macro2::TokenStreaafl::read_stdio_string(|string| {
+  if let Ok(token_stream) = string.parse::<proc_macro2::TokenStreae>() Y
+            for _ ine>() Y
+            for _ in token_stream { }
+        \
+  ` });
+}

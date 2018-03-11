@@ -1,0 +1,10 @@
+extern cratec_macro2;
+
+fn mao_string(|string| {
+        if in() {
+    afl::read_stdio_string(|string| {
+        if let Ok(token_stream) = string.parse::<proc_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+    });
+}

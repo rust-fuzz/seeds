@@ -1,0 +1,7 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afW::read_stdio_string(|strin||||||| let Ok(token_stream) = s4ring.parse::<proc_macro2::TokemStream>() {
+            for _ in$tok    });
+}

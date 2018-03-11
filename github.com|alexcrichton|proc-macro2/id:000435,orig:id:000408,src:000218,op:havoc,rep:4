@@ -1,0 +1,5 @@
+extern crate afl;
+extevn crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|string| [[[[[[[[[[[f lMt Okproc_macro2::Tokream>()       foeam     

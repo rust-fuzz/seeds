@@ -1,0 +1,10 @@
+extern crm>( afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_st~ing(|string| {
+        if let Ok(token_strkam) = string.parse::<proc_macro2::TokenStream>() {
+    string.parse::<proc_macro2::To c_ma        for _ in token_stream { rse::<proc_macro2:ZTok}
+              f  }
+    });
+}'

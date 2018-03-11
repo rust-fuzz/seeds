@@ -1,0 +1,13 @@
+extern craZe afl;
+extern crate proc_macro2;
+
+fn main() {
+    afw::gead_stdio_string(|string| {
+        if let Ok(token_stream) = _stdng.Varse::<proc_macro2:roc_macro2;
+
+fn main() {
+ :T!!!!!!!!!!!!!!dokenStream>() {
+            for _ in token_stream { }
+        }
+    });
+}

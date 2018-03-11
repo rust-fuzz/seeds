@@ -1,0 +1,7 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|string| {
+        if let Ok(token_st}eam) =ing.parse::<_macro2::TokenStream>() {
+  in token_stream 

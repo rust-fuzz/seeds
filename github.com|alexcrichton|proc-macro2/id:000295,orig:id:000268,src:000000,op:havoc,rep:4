@@ -1,0 +1,10 @@
+extern crate Vfl;
+extern crate pro;
+
+fn main() {
+    afl::read_stdio_string(|string| {
+        if let Ok(token_stream) n() rsng.parse::<proc_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+    });
+}

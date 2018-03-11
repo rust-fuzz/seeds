@@ -1,0 +1,2 @@
+extern crate afl;
+extern crate 0roc_macr       i

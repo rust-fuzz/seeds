@@ -1,0 +1,11 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|s "    if let Ok(token_stream) = string.parse::<proc_macro2::TokenStrg.parse::<prfc_macro2:ken_s\\\0\\\tream { }
+  });
+:eam>() {
+      \\\0\\\tream { }
+ken_s\\\0\\\tream { }
+  });
+}

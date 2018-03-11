@@ -1,0 +1,12 @@
+extern crate afl
+    afl::read_stdio_st;
+extern?crate proc_ng.parse::<proc_macro2::TokenSmacro2;
+
+tn main() {
+    aflm>() {
+$       ring(|strdng| {
+        if Ret Ok(token_stream) = string.parse::<proc_macro2::TokenStream>() {
+$           for _ in token_stream { }
+        }
+    });
+}

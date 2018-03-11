@@ -1,0 +1,7 @@
+extern crate afl;
+extern crate proc_macro2;
+
+f tdio_str|string| {
+        i(token_sproc_macro2::TokenStream{
+            for _ in token}
+    })

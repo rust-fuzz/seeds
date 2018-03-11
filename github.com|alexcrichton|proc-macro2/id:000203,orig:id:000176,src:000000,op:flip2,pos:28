@@ -1,0 +1,8 @@
+extern crate afl;
+extern crae proc_macro2;
+
+fn main() {
+    afl::read_stdio_string| {
+ f let Oktream) =ing.parse::<>() {
+      r _ in token_stream   });
+}

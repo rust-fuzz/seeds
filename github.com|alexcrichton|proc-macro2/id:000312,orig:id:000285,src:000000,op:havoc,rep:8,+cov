@@ -1,0 +1,6 @@
+exte:TokenStrefn main() {
+    afl::read_stdio_string(|string| {
+      $ if let Ok(token_stream) = string.p                              '''''''''          foread_stdio_string(|stri
+        }
+    });
+}

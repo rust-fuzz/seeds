@@ -1,0 +1,8 @@
+extern crate afl;'extern crao2;
+main() {
+    afl_string(|str {
+        if let Ok(token_sm) =parsproc_macro2::Tok{
+        for _ { }
+        }
+    });
+}

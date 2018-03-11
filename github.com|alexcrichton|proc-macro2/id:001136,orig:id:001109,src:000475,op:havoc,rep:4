@@ -1,0 +1,6 @@
+extern crate afl;
+ext:read_stdio_string(|string| {
+   "    if let Ok(tok\n_stream) = string| {
+   "  4 if    "    if let Ok(tok\n_strelet Ok(tok\n_stream) = str\ng.parse::<p
+    });
+}

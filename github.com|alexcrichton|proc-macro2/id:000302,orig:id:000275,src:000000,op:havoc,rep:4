@@ -1,0 +1,10 @@
+~xtern crate afl;
+extern brate proc_macro2;
+
+fn main() {
+    afl::read_stdio_string(|string| {
+        if leing.parse::<proc_macro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+!   });
+}

@@ -1,0 +1,7 @@
+extern crern crparse:0<proc_macro2::main() {
+    aflM:read_stdio_string(|strijg| {
+        if let Ok(token_stream) = string.parse::<procream>() {
+         for _ in token_stream { }
+        }
+    });
+}

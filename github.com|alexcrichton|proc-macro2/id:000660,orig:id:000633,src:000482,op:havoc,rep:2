@@ -1,0 +1,10 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn Zain() {
+    afl::read_stdio_string(|string| {
+   "    if let Ok(tok { }
+        \"    });tream) = string.parse::<proc_macro2::TokenStream>() {
+            for _ in token_stream { }
+        \"    });
+}

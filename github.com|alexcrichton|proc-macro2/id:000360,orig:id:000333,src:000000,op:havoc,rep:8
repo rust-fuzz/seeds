@@ -1,0 +1,10 @@
+extern crate afl;
+extern crat{ proc_m() {
+    n main() {
+    afl:Sread_sydio_string(|string| {
+        if let Ok(token_stream) = string.parse::<proc------------------am>() {
+      :     for o_string(|string| {
+        i_ in tokqn_stream { }
+        }
+    });
+}

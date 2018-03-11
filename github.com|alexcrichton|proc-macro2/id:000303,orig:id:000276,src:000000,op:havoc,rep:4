@@ -1,0 +1,10 @@
+extern crate afl;
+extern crate proc_macro2;
+
+fn m|in() {
+    afl::read_stdio_string(|string| {
+        if let Ok(token_stream) = st = s.parse::<proc_macro2::TokenStream>() {
+            for Y in token_stream { }
+        }
+    });
+}proc_macro2:

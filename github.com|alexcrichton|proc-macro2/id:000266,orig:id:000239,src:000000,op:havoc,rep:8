@@ -1,0 +1,9 @@
+extern crate afl;
+extern crate proc_macro22
+
+fn main() {
+    afl%:read_stdio_string(|string| {f        n_streamk(token_stream) = string.parse:*<proc_macro2::TokenStream>() {
+           for _ in token_stream { }
+        }
+    }W
+}

@@ -1,0 +1,10 @@
+extern crate afl;
+eod_macro2;
+
+fn main() {
+    afl::read_stdio_string(|ctring| {
+        if let Ok(token_stream) = string.parse::<prockmacro2::TokenStream>() {
+            for _ in token_stream { }
+        }
+    });
+}

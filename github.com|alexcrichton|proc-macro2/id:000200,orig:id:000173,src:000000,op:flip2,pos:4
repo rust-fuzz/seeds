@@ -1,0 +1,9 @@
+exten crate afl;
+extern crate proc_macro2;
+
+fn () {::read_stdio_string(|string| {
+        ien_stream) =proc_mac:Tok>() {
+            for _ in token_stream { }
+    }
+    });
+}
